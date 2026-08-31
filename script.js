@@ -2,9 +2,9 @@
      CONFIGURATION
      ========================================================= */
 
-const CLIENT_ID = "YOUR_CLIENT_ID";
+const CLIENT_ID = "1072643905823-0djbaos54ivvu4eth9p6g225vqfpe7ea.apps.googleusercontent.com";
 
-const SPREADSHEET_ID = "YOUR_SPREADSHEET_ID";
+const SPREADSHEET_ID = "1CyleIK72bMdbI79wWvJZOJUkk1_mHlrS5xyJy93_3B0";
 
 const STUDENTS_RANGE = "Students!A:C";
 
